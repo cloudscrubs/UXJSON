@@ -19,6 +19,11 @@
           "id": "field3",
           "text": "Visible Text",
           "type": "textbox"
+        },
+        {
+          "id": "label1",
+          "text": "Visible Text",
+          "type": "label"
         }
       ]
     }
