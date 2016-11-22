@@ -1,12 +1,26 @@
 {
-  id:"testpage",
-  title:"test title",
-  forms:[
+  "id": "testpage",
+  "title": "test title",
+  "forms": [
     {
-      id:"testform"
-      
+      "id": "testform",
+      "elements": [
+        {
+          "id": "field1",
+          "text": "Visible Text",
+          "type": "textbox"
+        },
+        {
+          "id": "field2",
+          "text": "Visible Text",
+          "type": "bigtextbox"
+        },
+        {
+          "id": "field3",
+          "text": "Visible Text",
+          "type": "textbox"
+        }
+      ]
     }
-
-
   ]
 }
